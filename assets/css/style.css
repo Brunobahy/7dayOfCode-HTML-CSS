@@ -1,0 +1,19 @@
+:root{
+    --cor-padrao: #667085;
+    --cor-logo: #3A404E;
+    --cor-vermelho: #8E2424;
+    --cor-branco: #FFFFFF;
+
+    --font-comum: 'Inter', sans-serif;
+    
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: var(--font-comum);
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cor-padrao);
+}
