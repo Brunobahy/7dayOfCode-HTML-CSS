@@ -3,6 +3,7 @@
     --cor-logo: #3A404E;
     --cor-vermelho: #8E2424;
     --cor-branco: #FFFFFF;
+    --cor-preto: #101828;
 
     --font-comum: 'Inter', sans-serif;
     
@@ -12,8 +13,11 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
     font-family: var(--font-comum);
     font-weight: 400;
     font-size: 16px;
     color: var(--cor-padrao);
+    text-align:center;
+    line-height: 24px;
 }
