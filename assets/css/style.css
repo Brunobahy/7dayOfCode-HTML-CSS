@@ -1,7 +1,7 @@
 @import url(cabecalho.css);
 @import url(navbar.css);
 @import url(vagas.css);
-
+@import url(metrica.css);
 :root{
     --cor-padrao: #667085;
     --cor-logo: #3A404E;
