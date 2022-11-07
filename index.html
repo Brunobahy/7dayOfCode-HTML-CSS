@@ -9,22 +9,25 @@
     <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/navbar.css">
     <link rel="stylesheet" href="./assets/css/cabecalho.css">
+    <link rel="stylesheet" href="./assets/css/metrica.css">
+
 </head>
 
 <body>
     <header>
-        <div class="cabecalho container">
-            <div class="cabecalho__logo">
+        <div class="navbar container">
+            <div class="navbar__logo">
                 <img src="./assets/img/logo.png" alt="Logo da OptimuTech" class="logo__imagem">
                 <h2 class="logo__texto">OptimusTech</p>
             </div>
 
-            <nav class="cabecalho__navegacao">
+            <nav class="navbar__navegacao">
                 <li class="navegacao__itens"><a href="#" class="navegacao__links">Home</a></li>
                 <li class="navegacao__itens"><a href="#" class="navegacao__links">Produtos</a></li>
                 <li class="navegacao__itens"><a href="#" class="navegacao__links">Recursos</a></li>
-                <li class="navegacao__itens"><a href="#" class="navegacao__links">Sobre nós</a></li>
+                <li class="navegacao__itens"><a href="#sobrenos" class="navegacao__links">Sobre nós</a></li>
             </nav>
             <div class="login">
                 <button class="login__botao">Entrar</button>
@@ -32,6 +35,44 @@
             </div>
         </div>
     </header>
+    <main>
+        <section class="cabecalho" id="sobrenos">
+            <h3 class="cabecalho__sobre">Sobre nós</h3>
+            <h2 class="cabecalho__pergunta">Por que somos diferentes?</h2>
+            <p class="cabecalho__texto">Nós focamos nos detalhes de tudo que fazemos. Tudo para ajudar as empresas de
+                todo o mundo a se concentrarem naquilo que é realmente importante para elas.</p>
+        </section>
+
+        <section class="metrica" id="metrica">
+            <div class="metrica__container">
+                <div class="metrica__item">
+                    <h2 class="metrica__numero">400+</h2>
+                    <h3 class="metrica__titulo">Projetos concluídos</h3>
+                    <p class="metrica__texto">Nós ajudamos a construir mais de 400 projetos incríveis.</p>
+                </div>
+                <div class="metrica__item">
+                    <h2 class="metrica__numero">100+</h2>
+                    <h3 class="metrica__titulo">Colaboradores</h3>
+                    <p class="metrica__texto">Temos mais de 100 colaboradores no nosso time que se preocupam com nossos
+                        clientes.</p>
+                </div>
+                <div class="metrica__item">
+                    <h2 class="metrica__numero">20k</h2>
+                    <h3 class="metrica__titulo">Downloads</h3>
+                    <p class="metrica__texto">Nossos projetos que estão disponíveis em lojas já foram baixados mais de
+                        20.000 vezes.</p>
+                </div>
+                <div class="metrica__item">
+                    <h2 class="metrica__numero">500+</h2>
+                    <h3 class="metrica__titulo">Reviews 5 estrelas</h3>
+                    <p class="metrica__texto">Estamos orgulhosos de contar com mais de 500 reviews 5 estrelas em nossos
+                        produtos.</p>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
 
 </body>
 
