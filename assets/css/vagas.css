@@ -1,0 +1,30 @@
+.vagas__nome{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: var(--cor-vermelho);
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 4px 12px;
+}
+
+.vagas__titulo{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -2%;
+    color: var(--cor-preto);
+    margin: 20px 0;
+}
+
+.vagas__texto{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.vagas__foto{
+    width: 1216px;
+    height: 400px;
+    margin: 64px;
+}
