@@ -1,8 +1,16 @@
+@import url(navbar.css);
+@import url(cabecalho.css);
+@import url(metrica.css);
+@import url(vagas.css);
+@import url(abertas.css);
+@import url(depoimentos.css);
 :root{
     --cor-padrao: #667085;
     --cor-logo: #3A404E;
     --cor-vermelho: #8E2424;
     --cor-branco: #FFFFFF;
+    --cor-preto: #101828;
+    --bordas-vagas: #EAECF0;
 
     --font-comum: 'Inter', sans-serif;
     
@@ -12,8 +20,26 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
     font-family: var(--font-comum);
     font-weight: 400;
     font-size: 16px;
     color: var(--cor-padrao);
+    line-height: 24px;
+}
+
+.chamada-comum{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: var(--cor-vermelho);
+}
+
+.titulo-comum{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02%;
+    color: var(--cor-preto);
+    margin: 20px 0;
 }
