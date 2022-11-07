@@ -1,3 +1,6 @@
+#vagas{
+    text-align: center;
+}
 .vagas__nome{
     font-size: 14px;
     font-weight: 500;
@@ -26,5 +29,5 @@
 .vagas__foto{
     width: 1216px;
     height: 400px;
-    margin: 64px;
+    margin: 64px 64px 0 64px;
 }
