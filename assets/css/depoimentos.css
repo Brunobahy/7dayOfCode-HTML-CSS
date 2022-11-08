@@ -1,0 +1,31 @@
+#depoimentos{
+    text-align: center;
+    background: rgba(196, 25, 25, 0.03);
+    width: 1216px;
+    height: 404px;
+    display: block;
+    margin: 96px auto;
+    border-radius: 16px;
+    padding: 64px;
+}
+
+#depoimento__chamada{
+    font-weight: 600;
+}
+
+#depoimento__texto{
+    font-weight: 500;
+    margin: 16px 0;
+}
+
+.depoimento__foto{
+    width: 56px;
+    height: 56px;
+    margin: 16px 0;
+}
+
+.depoimento__nome{
+    font-weight: 500;
+    color: var(--cor-preto);
+    margin-bottom: 4px;
+}

@@ -1,0 +1,21 @@
+#vagas{
+    text-align: center;
+}
+#vagas__nome{
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 4px 12px;
+}
+
+.vagas__texto{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.vagas__foto{
+    width: 1216px;
+    height: 400px;
+    margin: 64px 64px 0 64px;
+}
+

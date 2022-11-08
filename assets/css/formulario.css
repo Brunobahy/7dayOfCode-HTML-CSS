@@ -1,0 +1,16 @@
+#formulario{
+    text-align: center;
+    padding: 96px;
+    background: #F9FAFB;
+}
+.formulario__texto{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.formulario__email{
+   border: solid 1px #D0D5DD;
+   border-radius: 8px;
+   padding: 12px 14px 12px 16px;
+   margin: 0 16px 32px 0 ;
+}

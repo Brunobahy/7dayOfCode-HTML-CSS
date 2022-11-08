@@ -1,0 +1,41 @@
+.abertas{
+    width: 768px;
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.abertas__titulo{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--cor-preto);
+    margin: 64px 0 8px 0;
+}
+
+.abertas__vaga-container{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding: 24px 24px 28px 24px;
+    margin: 24px 0 0 0;
+    border: solid 1px var(--bordas-vagas);
+    border-radius: 16px;
+}
+
+.abertas__vaga-nome{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--cor-preto);
+}
+
+.abertas__vaga-detalhes{
+    display: flex;
+    gap: 2em;
+    align-items: center;
+}
+
+.abertas__vaga-tempo,.abertas__vaga-salario{
+    font-weight: 500;
+}

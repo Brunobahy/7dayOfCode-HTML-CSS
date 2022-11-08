@@ -1,0 +1,33 @@
+#metrica{
+    width: 1280px;
+    height: 288px;
+    margin:0px auto;
+    gap: 64px;
+    padding-bottom:96px;
+}
+.metrica__container{
+    display: flex;
+    justify-content: center;
+    padding: 0 32px;
+    gap: 20px;
+}
+.metrica__item{
+    width: 280px;
+    height: 192px;
+}
+
+.metrica__numero{
+    color: var(--cor-vermelho);
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.metrica__titulo{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--cor-preto);
+    margin: 12px 0 8px;
+
+}

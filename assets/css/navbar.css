@@ -1,0 +1,50 @@
+.navbar{
+    align-self: center;
+    align-items: center;
+    display: grid;
+    margin: 18px 80px;
+    justify-content: space-around;
+    grid-template-columns: auto auto auto auto;
+    pad: 0 32px;
+}
+
+
+/*logo*/
+.navbar__logo{
+    display: flex;
+    align-items: center;
+    grid-column: 1;
+}
+.logo__imagem{
+    width:27px;
+    height: 27px;
+    margin-right: 8px;
+}
+.logo__texto{
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--cor-logo);
+}
+
+/*navegação*/
+.navbar__navegacao{
+    grid-column: 2;
+    display: flex;
+    list-style: none;
+}
+
+.navegacao__itens{
+    margin-right: 32px;
+}
+
+.navegacao__links{
+    text-decoration: none;
+    color: var(--cor-padrao);
+    font-weight: 500;
+    line-height: 24px;
+}
+
+/*Botões login*/
+.login{
+    grid-column: 4;
+}
