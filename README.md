@@ -1,6 +1,7 @@
-# Nome do meu projeto
+# Página de vagas OptimusTech
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto realizado para cumprir o desafio da alura e aprimorar minhas habilidades.
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -14,4 +15,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Este projeto foi feito através do desafio 7DaysOfCode da Alura focado em HTML e CSS, como diz o nome ele foi feito em 7 dias cada dia uma pequena parte da pagina, fiquei satisfeito com o projeto final e acredito que me sai muito bem.
+Este projeto foi feito através do desafio 7DaysOfCode da Alura focado em HTML e CSS, como diz o nome ele foi feito em 7 dias cada dia uma pequena parte da página, fiquei satisfeito com o projeto final e acredito que me sai muito bem.
