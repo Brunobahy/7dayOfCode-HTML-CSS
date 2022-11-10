@@ -10,8 +10,8 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Captura de tela 2022-11-10 083349](https://user-images.githubusercontent.com/110056385/201081343-a4232b2b-183e-47cb-ac08-412d95a26416.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Este projeto foi feito através do desafio 7DaysOfCode da Alura focado em HTML e CSS, como diz o nome ele foi feito em 7 dias cada dia uma pequena parte da pagina, fiquei satisfeito com o projeto final e acredito que me sai muito bem.
