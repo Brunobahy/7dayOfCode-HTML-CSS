@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysOfCode-HTML-CSS**
 | :label: Tecnologias | html, CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         |https://brunobahy.github.io/7dayOfCode-HTML-CSS/
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
