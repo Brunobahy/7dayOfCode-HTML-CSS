@@ -11,7 +11,7 @@ Projeto realizado para cumprir o desafio da alura e aprimorar minhas habilidades
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Captura de tela 2022-11-10 083349](https://user-images.githubusercontent.com/110056385/201081343-a4232b2b-183e-47cb-ac08-412d95a26416.png)
+![Captura de tela 2022-11-10 083349](https://user-images.githubusercontent.com/110056385/201081343-a4232b2b-183e-47cb-ac08-412d95a26416.png#vitrinedev)
 
 ## Detalhes do projeto
 
